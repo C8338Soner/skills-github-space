@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. **UX Design Review**: Review designs and prototypes with Development team
+8. **Test Planning**: QA Engineer creates test strategy and identifies automation needs
+9. **Security Review**: Security Lead assesses security requirements and threat model
+10. **Infrastructure Planning**: DevOps Engineer reviews deployment and infrastructure needs
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +45,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX designs reviewed and approved by Development team
+- [ ] Security requirements and threat model documented
+- [ ] DevOps deployment strategy and infrastructure needs identified
+- [ ] Customer Success notified of upcoming release timeline

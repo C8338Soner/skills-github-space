@@ -28,9 +28,13 @@ Clear ownership drives accountability. Each project assigns specific roles with 
 - **Product Managers**: Define outcomes, set priorities, and ensure alignment with business objectives
 - **Developers**: Build features, write quality code, and participate in technical decision-making
 - **QA Engineers**: Ensure quality through automated testing, security scanning, and manual reviews
+- **UX Designers**: Conduct user research, create prototypes, and ensure intuitive user experiences
+- **DevOps Engineers**: Build CI/CD pipelines, automate processes, and maintain reliable infrastructure
+- **Security Leads**: Conduct security reviews, assess threats, and coordinate incident response
+- **Customer Success / Support**: Gather user feedback, triage issues, and communicate with customers
 - **Stakeholders**: Provide input, feedback, and signoff at key decision points
 
-Every project and feature has a designated owner, ensuring focus and accountability from setup through delivery.
+Every project and feature has a designated owner, ensuring focus and accountability from setup through delivery. Clear handoff points between roles ensure smooth collaboration throughout the project lifecycle.
 
 ### Communication Strategies and Cadences
 
